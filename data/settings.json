@@ -202,7 +202,7 @@
 				"links": [
 					{
 						"name": "News",
-						"url": "https://nav.416860349.xyz:9999",
+						"url": "https://nav.416860349.xyz:8920",
 						"icon": "material-symbols:breaking-news"
 					},
 					{
@@ -223,14 +223,14 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Local",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Portainer",
+						"url": "http://localhost:9001/",
+						"icon": "devicon:portainer"
 					},
 					{
 						"name": "Space",
