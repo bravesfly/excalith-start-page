@@ -1,6 +1,6 @@
 {
-	"username": "Excalith",
-	"title": "Excalith Start Page",
+	"username": "Ameno",
+	"title": "Ameno Start Page",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -115,14 +115,14 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
+				"title": "LLM",
 				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "LobeChat",
+						"url": "https://lobechat.416860349.xyz/",
+						"icon": "material-symbols-light:smart-outlet-outline"
 					},
 					{
 						"name": "Keybase",
@@ -142,24 +142,24 @@
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "Write",
 				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
+						"name": "Blinko",
+						"url": "https://blinko.416860349.xyz:8920",
+						"icon": "material-symbols:add-notes-outline"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Hoarder",
+						"url": "https://bookmark.416860349.xyz:8920",
+						"icon": "arcticons:hoarder-app"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"name": "Memos",
+						"url": "https://memos.416860349.xyz:8920",
+						"icon": "arcticons:goodwy-voice-memos"
 					},
 					{
 						"name": "Stack Overflow",
@@ -169,19 +169,19 @@
 				]
 			},
 			{
-				"title": "Social",
+				"title": "Media",
 				"color": "cyan",
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "Emby",
+						"url": "https://jellyfin.416860349.xyz:8920",
+						"icon": "simple-icons:jellyfin"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "QBittorrent",
+						"url": "https://download.416860349.xyz:8920",
+						"icon": "simple-icons:qbittorrent"
 					},
 					{
 						"name": "Reddit",
@@ -196,14 +196,14 @@
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Today",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "News",
+						"url": "https://nav.416860349.xyz:9999",
+						"icon": "material-symbols:breaking-news"
 					},
 					{
 						"name": "IGN",
